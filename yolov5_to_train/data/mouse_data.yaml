@@ -1,0 +1,8 @@
+train: mouse_dataset/images/train/ 
+val:  mouse_dataset/images/val/
+
+# number of classes
+nc: 1
+
+# class names
+names: ["mouse"]
