@@ -22,7 +22,7 @@ Pode ocorrer da API tentar conectar no banco antes do banco estar preparado, cas
 
 # Executando o sistem de detecção
 
-Dentro do diretório system_a, execute o script main.py
+Dentro do diretório system_a, execute o script main.py. As dependências desse projeto são as utilizadas no Yolo, basta instalar os requirements.txt do yolo.
 
 python main.py
 
